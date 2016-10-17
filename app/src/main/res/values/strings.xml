@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Studio Tips &amp; Tricks</string>
+    <string name="action_settings">Settings</string>
+    <string name="age" traslation_description="age">My Age</string>
+    <string name="gender" traslation_description="gender">My gender</string>
+    <string name="favourite_colour" traslation_description="favourite_colour">Green</string>
+    <string name="favourite_movie" traslation_description="favourite_movie">Speed 3</string>
+    <string name="favourite_song" traslation_description="favourite_song">My Lovely Horse</string>
+    <string name="favourite_primate" traslation_description="favourite_primate">Harambe</string>
+    <string name="favourite_food" traslation_description="favourite_food">Ready Brek</string>
+</resources>
